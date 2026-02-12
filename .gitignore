@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Data Processing Files (Keep repo clean)
+*.xlsx
+*.cjs
+*.js
+!eslint.config.js
+!postcss.config.js
+!tailwind.config.js
+!vite.config.js
+scraped_products.json
+deep_scraped_products.json

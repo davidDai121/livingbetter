@@ -1,16 +1,32 @@
 [
   {
-    "id": "furniture",
-    "name": "Home Furniture",
-    "description": "Elegant and durable furniture for modern living.",
-    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
-    "subcategories": ["Living Room", "Bedroom", "Outdoor"]
+    "id": "beds",
+    "name": "Beds & Frames",
+    "description": "Restful designs for your personal sanctuary.",
+    "image": "https://b2bfiles1.gigab2b.cn/image/wkseller/31/0f972ec7b25ed6c27e835390bdd8ed74.jpg?x-cc=0&x-cu=0&x-ct=1770883200&x-cs=142bd549b1a01e7c0a08cdca952fb8a7"
   },
   {
-    "id": "pets",
-    "name": "Pet Supplies",
-    "description": "Premium comfort and fun for your furry friends.",
-    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=800&q=80",
-    "subcategories": ["Beds", "Toys", "Accessories"]
+    "id": "tables",
+    "name": "Tables & Desks",
+    "description": "Coffee tables, nightstands, and workspaces.",
+    "image": "https://b2bfiles1.gigab2b.cn/image/wkseller/31/1193229250fa656758e59d30931e9914.jpg?x-cc=0&x-cu=0&x-ct=1770883200&x-cs=77f94fd577f6f4cd973f9f6d9daa973a"
+  },
+  {
+    "id": "sofas",
+    "name": "Sofas & Seating",
+    "description": "Comfortable sofas, loveseats, and sectionals.",
+    "image": "https://b2bfiles1.gigab2b.cn/image/wkseller/31/14476a33d032f94da0cb87ebbec2b76e.jpg?x-cc=0&x-cu=0&x-ct=1770883200&x-cs=6ea12c5b2c14837a7de83e36dabf7315"
+  },
+  {
+    "id": "chairs",
+    "name": "Chairs & Recliners",
+    "description": "Accent chairs, recliners, and dining seats.",
+    "image": "https://b2bfiles1.gigab2b.cn/image/wkseller/17130/7aeb929620adedef31e56cfef82c10be.jpg?x-cc=0&x-cu=0&x-ct=1770883200&x-cs=7dfc75947e395d71d3e30dacfbdfc823"
+  },
+  {
+    "id": "storage",
+    "name": "Cabinets & Storage",
+    "description": "Shelving, bookcases, and organizers.",
+    "image": "https://b2bfiles1.gigab2b.cn/image/wkseller/31/1193229250fa656758e59d30931e9914.jpg?x-cc=0&x-cu=0&x-ct=1770883200&x-cs=77f94fd577f6f4cd973f9f6d9daa973a"
   }
 ]

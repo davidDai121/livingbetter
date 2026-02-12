@@ -18,7 +18,7 @@ const Contact = () => {
                 <Mail className="text-accent mt-1 mr-4" />
                 <div>
                   <h3 className="font-semibold text-gray-800">Email</h3>
-                  <p className="text-gray-600">inquiry@livingbettertrade.com</p>
+                  <p className="text-gray-600">livingbettertrade@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -26,16 +26,9 @@ const Contact = () => {
                 <div>
                   <h3 className="font-semibold text-gray-800">Location</h3>
                   <p className="text-gray-600">
-                    China Headquarters<br />
-                    Guangdong Province, China
+                    5705 Diehl Trl, Apt 10101<br />
+                    Austin, Texas 78727
                   </p>
-                </div>
-              </div>
-              <div className="flex items-start">
-                <Phone className="text-accent mt-1 mr-4" />
-                <div>
-                  <h3 className="font-semibold text-gray-800">Phone</h3>
-                  <p className="text-gray-600">+86 123 4567 8900</p>
                 </div>
               </div>
             </div>
