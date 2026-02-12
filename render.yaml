@@ -3,5 +3,5 @@ services:
     name: living-better
     env: static
     buildCommand: npm install && npm run build
-    staticPublishPath: ./dist
+    staticPublishPath: dist
     branch: main
