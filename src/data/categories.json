@@ -1,0 +1,16 @@
+[
+  {
+    "id": "furniture",
+    "name": "Home Furniture",
+    "description": "Elegant and durable furniture for modern living.",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
+    "subcategories": ["Living Room", "Bedroom", "Outdoor"]
+  },
+  {
+    "id": "pets",
+    "name": "Pet Supplies",
+    "description": "Premium comfort and fun for your furry friends.",
+    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=800&q=80",
+    "subcategories": ["Beds", "Toys", "Accessories"]
+  }
+]
