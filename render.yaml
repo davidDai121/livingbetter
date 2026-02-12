@@ -1,7 +1,7 @@
 services:
   - type: web
-    name: living-better
+    name: living-better-site
     runtime: static
-    buildCommand: npm install && npm run build
-    staticPublishPath: dist
+    buildCommand: "npm install && npm run build"
+    staticPublishPath: ./dist
     branch: main
