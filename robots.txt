@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.ni-grindforce.com/sitemap.xml
+Sitemap: https://grind-force.com/sitemap.xml
